@@ -171,4 +171,3 @@ SELECT * FROM issue_status;
 
 ---
 
-Let me know if you need any further modifications or additional tasks!
